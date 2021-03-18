@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @markus-kilian
+- 👀 I’m interested in climate science, meteorology, coding
+- 🌱 I’m currently learning docker
+- 💞️ I’m looking to collaborate on nwp, statistical and dynamical weather downscaling, and docker in weather / climate services
+- 📫 How to reach me: reach me by email markus.kilian@uni-hamburg.de
